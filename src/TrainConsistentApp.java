@@ -15,3 +15,4 @@ public class TrainConsistentApp {
         System.out.println("Initial number of bogies: " + bogies.size());
     }
 }
+
